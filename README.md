@@ -16,5 +16,3 @@ Just my solutions to competitive programming (or not) problems (codewars, codefo
  ### Languages:
   1. Python
   2. Go
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamiel01)](https://github.com/Lamiel01/)
