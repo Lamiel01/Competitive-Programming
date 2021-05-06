@@ -15,4 +15,5 @@ Just my solutions to competitive programming (or not) problems (codewars, codefo
 
  ### Languages:
   1. Python
-  2. Go
+  2. JavaScript
+  3. Go
